@@ -1,0 +1,9 @@
+type Query {
+    usuarioLogado: Usuario
+    produtoEmDestaque: Produto
+    numeroDaMegaSena: [Int]
+    usuarios: [Usuario]
+    usuario(id: ID): Usuario
+    perfis: [Perfil]
+    perfil(id: Int): Perfil
+}
