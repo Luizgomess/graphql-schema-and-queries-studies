@@ -1,1 +1,1 @@
-# graphql-schema---queries-studies
+# graphql-schema-and-queries-studies
